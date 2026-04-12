@@ -28,15 +28,18 @@ There are several options available, we will be focusing on the **`VI Editor`**.
      - In this mode you can choose to save changes to the file, discard changes, or save and edit.
      - From the last line mode hit the **`ESC`** key to go back to the command mode.
      
-     ![vi](../../images/vi.PNG)
+    <img width="895" height="498" alt="vi" src="https://github.com/user-attachments/assets/2d58b9a9-2e90-4441-a44d-0ec544ec81fd" />
+
      
  ## Command Mode
    
-   ![command1](../../images/command1.PNG)
+  <img width="970" height="486" alt="vi1" src="https://github.com/user-attachments/assets/a55066f2-11eb-4571-a015-0d9875cb17da" />
+
+   <img width="978" height="485" alt="vi2" src="https://github.com/user-attachments/assets/edc37198-f896-4526-9332-def9b5925a10" />
+
    
-   ![command2](../../images/command2.PNG)
-   
-   ![command3](../../images/command3.PNG)
+   <img width="982" height="481" alt="vi3" src="https://github.com/user-attachments/assets/7bbae376-cc27-4fc7-919b-e0f2bdd345cc" />
+
    
    
  ## Insert Mode
