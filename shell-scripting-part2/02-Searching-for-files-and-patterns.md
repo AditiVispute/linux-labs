@@ -28,7 +28,8 @@ Another way to do this is make use of the **`find`** command. Use the find comma
 ```
 $ find /home/michael -name City.txt
 ```
-   ![locate-find](../../images/locate-find.PNG)
+ <img width="949" height="473" alt="s1" src="https://github.com/user-attachments/assets/7f8a1e77-410f-4b85-8e11-485114d082b8" />
+
    
 ## Grep
 
@@ -55,8 +56,8 @@ To print the lines that don't matches the pattern
 ```
 $ grep -v "printed" sample.txt
 ```
+<img width="913" height="500" alt="s2" src="https://github.com/user-attachments/assets/e595fbfd-92fe-4492-9b8e-ae3c719b8c99" />
 
-  ![grep](../../images/grep.PNG)
   
 #### What if you want to match a pattern that form a whole word?
 
