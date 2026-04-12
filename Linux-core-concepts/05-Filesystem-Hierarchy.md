@@ -16,8 +16,8 @@ In this section, lets take a look at the **`filesystem hierarchy`**
   - **`/usr`**   : In older systems, **`/usr`** directory is used for **`User Home Directories`**, however in the modern linux operating systems it is the location where all user land applciations in their data reside
   - **`/var`**   : It contains variable data like mails, log files
   
-      ![filesystem](../../images/filesystem.PNG)
-      
+    <img width="963" height="274" alt="fh" src="https://github.com/user-attachments/assets/948345bf-e1d0-4dfa-9cc2-f3bcd11fe96b" />
+
  To print all the mounted filesystems, run **`df`** (disk filesystem) command
  ```
  $ df -hP
