@@ -7,8 +7,8 @@ In this section, we will take a look at basic linux commands
 - We will do this by completing a simple task using a linux shell.
 
 #### Our goal is to create a directory structure, the top most directory which is **`/home/michael`** which is already created as it as a home directory but everything else underneath has to be created. 
+<img width="490" height="388" alt="b1" src="https://github.com/user-attachments/assets/9dfe1a1f-7faa-454b-a3c0-5f4653fb0cec" />
 
-![mkdir_cd_working_with_shell_I](../../images/mkdir_cd_working_with_shell_I.PNG)
 
 To print the present working directory. Run **`pwd`** command
 ```
@@ -54,7 +54,7 @@ $ cd
 
 
 
-![Absolute_and_relative_path_working_with_shell_I](../../images/Absolute_and_relative_path_working_with_shell_I.PNG)
+<img width="988" height="562" alt="b2" src="https://github.com/user-attachments/assets/9c2d8960-8240-48f4-8044-16e760d9107d" />
 
 **Difference Between Absolute and Relative Path**
 
@@ -73,7 +73,8 @@ $ cd Asia
 
 #### Lets now take a look at alternatives to the **`cd`** command
 
-![pushd_popd](../../images/pushd_popd.PNG)
+<img width="949" height="518" alt="b3" src="https://github.com/user-attachments/assets/d76fa6b4-da57-475b-80ea-287f9d76fc6e" />
+
 
 Alternative to the **`cd`** is the **`pushd\popd`** command. To change directory using pushd, run **`pushd <directory_name>`**
 ```
