@@ -12,12 +12,13 @@ Lets try to install **`firefox`** package using both APT and APT-GET
 - You will notice APT does easy on the eyes, you get just enough information and also a nice little progress bar
 - APT-GET is just effective and doesn't provide the output in user-friendly format.
 
-  ![apt-vs-apt-get](../../images/apt-vs-apt-get.PNG)
+<img width="934" height="467" alt="pt1" src="https://github.com/user-attachments/assets/4c2a16d3-21d7-41b3-80c4-c087b6bdc49e" />
+
  
 Lets try another comparision by search a **`telent`** package.
 - You will notice with apt, all its options are located in one place. You can search with **`apt search telnet`** command.
 - On the other hand, you cannot use search command with **`apt-get`** command. Instead, you have to use another tool called **`apt-cache search telnet`**.
 - If you compare the results of the two commands, you will also see the **`apt-cache`** throws in a lot of extra information in the search result, which may not be really useful for the end user.
+<img width="912" height="422" alt="pt2" src="https://github.com/user-attachments/assets/69df0751-0e33-43a9-bb0e-87baa57a921d" />
 
-  ![apt-vs-apt-get1](../../images/apt-vs-apt-get1.PNG)
  
